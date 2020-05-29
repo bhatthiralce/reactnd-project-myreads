@@ -85,5 +85,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
